@@ -1,0 +1,52 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10px;
+    display: flex;
+    align-items: flex-start;
+}
+.dish {
+    display: flex;
+    align-items: center;
+    border: 2px solid;
+    border-radius: 10px;
+    width: 400px;
+    margin: 50px 50px 0 0;
+    padding: 10px;
+}
+.dish-img img {
+    width: 100px;
+}
+.dish-info {
+   margin: 0 30px 0;
+}
+.dish-btn button {
+    cursor: pointer;
+    padding: 10px 25px;
+}
+.dish-btn i {
+    margin-right: 10px;
+}
+.cart {
+    border: 2px solid;
+    border-radius: 10px;
+    margin-top: 50px;
+    width: 200px;
+    padding: 10px;
+}
+.cart h3 {
+    text-align: center;
+}
+.cart-info {
+    border-top: 3px solid;
+}
+.cart-btn  {
+    text-align: center;
+}
+.cart-btn button {
+    cursor: pointer;
+    padding: 10px 25px;
+}
+.cart span {
+    float: right;
+}
