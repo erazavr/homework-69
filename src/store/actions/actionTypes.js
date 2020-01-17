@@ -1,0 +1,11 @@
+export const ADD_DISH = 'ADD_DISH';
+export const REMOVE_DISH =  'REMOVE_DISH';
+export const PURCHASING = 'PURCHASING';
+export const PURCHASING_CANCEL = 'PURCHASING_CANCEL';
+export const DISHES_REQUEST = 'DISHES_REQUEST';
+export const DISHES_SUCCESS = 'DISHES_SUCCESS';
+export const DISHES_FAILURE = 'DISHES_FAILURE';
+export const ORDER_REQUEST = 'ORDER_REQUEST';
+export const ORDER_SUCCESS = 'ORDER_SUCCESS';
+export const ORDER_FAILURE = 'ORDER_FAILURE';
+
